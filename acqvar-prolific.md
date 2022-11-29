@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Consent
+permalink: /acqvar-prolific
 ---
 
 # Acquisition of variation in child language learners
