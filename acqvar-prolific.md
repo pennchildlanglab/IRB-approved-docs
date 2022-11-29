@@ -1,5 +1,5 @@
 ---
-title: Document Center
+title: Consent
 ---
 
 # Acquisition of variation in child language learners
