@@ -7,7 +7,7 @@ permalink: /acqvar-prolific
 # Informed consent to participate in research study
 **Primary Investigator**: Kathryn Schuler, [kschuler@sas.upenn.edu](mailto:kschuler@sas.upenn.edu)
 
-You are invited to take part in a research study conducted by Kathryn Schuler in the Linguistics Department at the University of Pennsylvania. This consent form explains what we are studying and what you will be invited to do if you choose to consent. Please read and sign this form to confirm that you have been informed about the study and that you want to take part.
+You are invited to take part in a research study conducted by Kathryn Schuler in the Linguistics Department at the University of Pennsylvania. This information form explains what we are studying and what you will be invited to do if you choose to consent. Please read and click `Start Experiment` to confirm that you have been informed about the study and that you want to take part.
 
 **What we are studying**: We are studying how people learn languages and the ways in which their ability to do so changes with age. 
 
