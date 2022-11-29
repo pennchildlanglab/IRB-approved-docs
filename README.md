@@ -1,4 +1,4 @@
-# IRB-approved-docs
+# irb
 The most current version of our approved IRB documents
 
 ## Acquisition of variation
