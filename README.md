@@ -1,5 +1,5 @@
-# irb
-The most current version of our approved IRB documents
+# consents
+The most current version of the childlanglab's IRB approved consents
 
 ## Acquisition of variation
 
