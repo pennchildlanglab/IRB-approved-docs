@@ -11,7 +11,8 @@ Informed consent to participate in research study
 
 You are invited to take part in a research study conducted by Kathryn Schuler in the Linguistics Department at the University of Pennsylvania. This consent form explains what we are studying and what you will be invited to do if you choose to consent. Please read and sign this form to confirm that you have been informed about the study and that you want to take part.
 
-**What we are studying**:  We are studying how people learn languages and the ways in which their ability to do so changes with age. 
+## What we are studying
+We are studying how people learn languages and the ways in which their ability to do so changes with age. 
 
 **What you will do**: You will be invited to play a 20 to 30-minute computer game in which you will be taught aspects of a made-up language that we have developed in our lab.  During the game, you will be asked to respond (by pressing a button or speaking) to simple questions about the language you are learning. You will play the game in one session, though we may invite you to play in up to 3 additional sessions. 
 
