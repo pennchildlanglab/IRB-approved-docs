@@ -1,26 +1,25 @@
 {
-    'hide_validation': false,
-    'button_orientation': "left",
-    'fields': [
-        {
-            'id': "name",
-            'name': "What is your name?",
-            'type': "field",
-            'field': {
-                'type': "text",
-                'placeholder': "Name",
-                'default_value': "Bob Smith",
-                'helptext': "Any preferred name"
-            }
-        },
-        {
-            'id': "color",
-            'name': "What is your favorite color?",
-            'type': "field",
-            'field': {
-                'type': "color",
-                'placeholder': "Color"
-            }
-        }
-    ]
+	"hide_validation": false,
+	"button_orientation": "left",
+	"fields": [{
+			"id": "name",
+			"name": "What is your name?",
+			"type": "field",
+			"field": {
+				"type": "text",
+				"placeholder": "Name",
+				"default_value": "Bob Smith",
+				"helptext": "Any preferred name"
+			}
+		},
+		{
+			"id": "color",
+			"name": "What is your favorite color?",
+			"type": "field",
+			"field": {
+				"type": "color",
+				"placeholder": "Color"
+			}
+		}
+	]
 }
