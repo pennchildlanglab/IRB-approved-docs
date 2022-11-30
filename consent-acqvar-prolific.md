@@ -31,5 +31,8 @@ You are invited to take part in a research study conducted by Kathryn Schuler in
 
 <!--  <input id=‘btn’ type = ‘button’ class = ‘jspsych-btn’ value = “Start Experiment” >
  -->
-[Start Experiment](){: .btn .jspsych-btn}
+[Start Experiment](){: .btn .jspsych-btn #btn}
+
+<button name="button" onclick="http://www.google.com" id='btn' class= 'btn jspsych-btn'>Click me</button>
+
 
