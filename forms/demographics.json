@@ -2,14 +2,12 @@
 	"hide_validation": false,
 	"button_orientation": "left",
 	"fields": [{
-			"id": "name",
-			"name": "What is your name?",
+			"id": "sex",
+			"name": "What sex were you assigned at birth?",
 			"type": "field",
 			"field": {
-				"type": "text",
-				"placeholder": "Name",
-				"default_value": "Bob Smith",
-				"helptext": "Any preferred name"
+				"type": "radio",
+				"options": ["Female", "Male", "Intersex", "Rather not say"]
 			}
 		},
 		{
