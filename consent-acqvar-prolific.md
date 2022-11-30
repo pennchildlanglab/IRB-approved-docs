@@ -29,6 +29,7 @@ Ending your participation: You can choose whether or not to participate in this 
 
 Questions? If you have questions about the study, please contact Kathryn Schuler at 215-898-6909. If you have questions about your rights as a research participant, you may also contact the Office of Regulatory Affairs at the University of Pennsylvania at 215-898-2614.
 
- <input id=‘btn’ type = ‘button’ class = ‘jspsych-btn’ value = “Start Experiment” >
-
+<!--  <input id=‘btn’ type = ‘button’ class = ‘jspsych-btn’ value = “Start Experiment” >
+ -->
+[Start Experiment](){: .btn .jspsych-btn}
 
