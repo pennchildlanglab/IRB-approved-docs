@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consent
-permalink: /acqvar-prolific
+permalink: /consent-acqvar-prolific
 ---
 
 # Informed consent to participate in research study
@@ -28,4 +28,7 @@ Ending your participation: You can choose whether or not to participate in this 
 **Compensation**: You will be paid according to the amount of time required to complete the study, in alignment with a rate of $12 per hour.
 
 Questions? If you have questions about the study, please contact Kathryn Schuler at 215-898-6909. If you have questions about your rights as a research participant, you may also contact the Office of Regulatory Affairs at the University of Pennsylvania at 215-898-2614.
+
+ <input id=‘btn’ type = ‘button’ class = ‘jspsych-btn’ value = “Start Experiment” >
+
 
