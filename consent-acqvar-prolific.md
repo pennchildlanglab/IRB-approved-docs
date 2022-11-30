@@ -17,7 +17,7 @@ You are invited to take part in a research study conducted by Kathryn Schuler in
 
 **Benefits**: Participating in this study will not benefit you directly.  You may enjoy contributing to the study of language and cognitive science.
 
-Ending your participation: You can choose whether or not to participate in this study. If you decide to participate now but change your mind later, you may withdraw from the study at any time without any negative consequences.  You can stop participating at any time by closing your browser window.
+**Ending your participation**: You can choose whether or not to participate in this study. If you decide to participate now but change your mind later, you may withdraw from the study at any time without any negative consequences.  You can stop participating at any time by closing your browser window.
 
 **Your rights**: Participation in this study is entirely voluntary. You may decline to participate or withdraw from the study at any time without any negative consequences.
 
@@ -27,7 +27,7 @@ Ending your participation: You can choose whether or not to participate in this 
 
 **Compensation**: You will be paid according to the amount of time required to complete the study, in alignment with a rate of $12 per hour.
 
-Questions? If you have questions about the study, please contact Kathryn Schuler at 215-898-6909. If you have questions about your rights as a research participant, you may also contact the Office of Regulatory Affairs at the University of Pennsylvania at 215-898-2614.
+**Questions?** If you have questions about the study, please contact Kathryn Schuler at 215-898-6909. If you have questions about your rights as a research participant, you may also contact the Office of Regulatory Affairs at the University of Pennsylvania at 215-898-2614.
 
 <!--  <input id=‘btn’ type = ‘button’ class = ‘jspsych-btn’ value = “Start Experiment” >
  -->
