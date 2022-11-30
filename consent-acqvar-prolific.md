@@ -33,6 +33,6 @@ You are invited to take part in a research study conducted by Kathryn Schuler in
  -->
 [Start Experiment](){: .btn .jspsych-btn #btn}
 
-<button name="button" onclick="http://www.google.com" id='btn' class= 'btn jspsych-btn'>Click me</button>
+<button name="button" onclick="http://www.google.com" id='btn' class= 'btn'>Click me</button>
 
 
