@@ -12,12 +12,33 @@
 			}
 		},
 		{
-			"id": "color",
-			"name": "What is your favorite color?",
+			"id": "gender",
+			"name": "What is your gender identity??",
 			"type": "field",
 			"field": {
-				"type": "color",
-				"placeholder": "Color"
+				"type": "radio",
+				"options": ["Man", "Woman", "Another identity", "Rather not say"],
+				"width": "6"
+			}
+		},
+		   {
+			"id": "sex",
+			"name": "How would you describe yourself?",
+			"type": "field",
+			 "helptext": "Select all that apply",
+			"field": {
+				"type": "radio",
+				"options": ["Hispanic or Latino/a", 
+					    "Black or African American", 
+					    "White or Caucasian", 
+					    "American Indian/Native American or Alaska Native",
+					    "Asian",
+					    "Native Hawaiian or Other Pacific Islander",
+					    "Other",
+					    "Rather not say"
+					   ],
+				"width": "6"
+
 			}
 		}
 	]
